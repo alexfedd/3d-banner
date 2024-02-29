@@ -9,7 +9,7 @@
 
 ## 🔗 Ссылка
 
- [3д-баннер]([https://alexfedd.kz](https://alexfedd.github.io/3d-parallax-site/))
+ [3д-баннер](https://alexfedd.github.io/3d-parallax-site/)
 
 
 ## Картинки
