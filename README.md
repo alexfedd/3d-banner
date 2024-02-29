@@ -9,6 +9,8 @@
 
 ## 🔗 Ссылка
 
+[Исходный код](https://github.com/alexfedd/alexfedd.github.io/tree/main/3d-parallax-site)
+
  [3д-баннер](https://alexfedd.github.io/3d-parallax-site/)
 
 
